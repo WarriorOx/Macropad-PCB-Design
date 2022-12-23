@@ -2,4 +2,6 @@
   (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
   (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/RP PICO Full/RPi_Pico.pretty")(options "")(descr ""))
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2040/RP2040_minimal/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "Reset Switch")(type "KiCad")(uri "${KIPRJMOD}/Reset Switch.pretty")(options "")(descr ""))
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/Type-C.pretty-master")(options "")(descr ""))
 )
