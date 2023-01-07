@@ -14,7 +14,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5da87c9d-168b-456e-bbb2-f7f7d4945d4d)
   )
-  (fp_rect (start -0.25 -0.25) (end 3.45 3.05) (layer "B.SilkS") (width 0.12) (fill none) (tstamp 2d6f79fc-e529-4b38-8b75-f5273ed8a689))
+  (fp_rect (start -0.19 -0.19) (end 3.39 2.99) (layer "B.SilkS") (width 0.12) (fill none) (tstamp 2d6f79fc-e529-4b38-8b75-f5273ed8a689))
   (pad "1" smd rect (at -1.025 0.65) (size 1.55 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp abc146e1-ee70-4785-b5a6-366cdb47dcb5))
   (pad "2" smd rect (at -1.025 2.15) (size 1.55 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 7055da67-93e6-4168-aadd-2b633414c742))
   (pad "3" smd roundrect (at 4.225 2.15) (size 1.55 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0)
